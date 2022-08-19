@@ -2,5 +2,5 @@
 
 Unity Developer Test for Every Realms Studios
 
-![](demo.gif)
+![](Demo.gif)
 
